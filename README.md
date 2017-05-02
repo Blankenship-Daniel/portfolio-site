@@ -16,5 +16,3 @@ $ git clone https://github.com/gangachris/mean-docker
  ```
 
  App should be running in `localhost:4200`
-# portfolio-site
-# portfolio-site
